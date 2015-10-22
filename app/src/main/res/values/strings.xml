@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Should I resign?</string>
+    <string name="back_to_main">Back to main menu</string>
+    <string name="app_info">Author: Saren\nDisclaimer: This app is for entertainment purpose only. Do not seek this app as real advice.\nSource: jobsdb.com</string>
+</resources>
