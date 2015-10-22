@@ -1,5 +1,36 @@
 <resources>
-    <string name="app_name">Should I resign?</string>
-    <string name="back_to_main">Back to main menu</string>
-    <string name="app_info">Author: Saren\nDisclaimer: This app is for entertainment purpose only. Do not seek this app as real advice.\nSource: jobsdb.com</string>
+    <string name="app_name">Should I Resign?</string>
+    <string name="back_to_first_question">First question</string>
+    <string name="app_info">Author: Saren\nDisclaimer: For entertainment purpose only, do not seek this app as real advice.\nSource: jobsdb.com</string>
+    <string name="get_started">Get started</string>
+    <string name="app_icon_desc" translatable="false">The app icon</string>
+
+    <string name="answer_yes">Yes</string>
+    <string name="answer_no">No</string>
+    <string name="answer_ok">OK…</string>
+    <string name="answer_bad">Meh…</string>
+    <string name="answer_good">Quite good…</string>
+    <string name="answer_try_stay_longer_no">No way</string>
+    <string name="answer_bad_salary">I am underpaid</string>
+    <string name="answer_unhappy">I am not happy</string>
+    <string name="answer_just_want_leave">I just want to leave</string>
+    <string name="answer_chase_dream">I want to go after my own dream</string>
+
+    <string name="question_are_you_sure">Are you sure?</string>
+    <string name="question_rich_enough">Are you rich enough to spend for the rest of your life?</string>
+    <string name="question_found_new_job">Have you found a new job?</string>
+    <string name="question_go_for_new_job">Would you really want to go for the new job?</string>
+    <string name="question_why_resign">Actually, why would you resign?</string>
+    <string name="question_would_you_regret">Would you regret for resigning?</string>
+    <string name="question_that_somebody">Is there somebody who pay for / take care of you for the rest of your life?</string>
+    <string name="question_trustworthy">Is (s)he trustworthy?</string>
+    <string name="question_talk_to_boss">Maybe try to talk to your boss?</string>
+    <string name="question_does_it_work">Does it work?</string>
+    <string name="question_why_still_use_this_app">Why are you still using this app then?</string>
+    <string name="question_chase_dream">Do you really have to resign to go after your own dream?</string>
+    <string name="question_try_to_stay_longer">Maybe try to stay for longer?</string>
+    <string name="question_how_going">How was it going?</string>
+    <string name="question_still_resigning">Do you still want to resign after that?</string>
+    <string name="resign_now">Stop thinking,\nquit your job now!</string>
+
 </resources>
