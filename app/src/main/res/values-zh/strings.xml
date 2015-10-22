@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">我該辭工嗎？</string>
-    <string name="app_icon_desc"/>
     <string name="app_info">作者: Saren\n聲明: 純粹搞笑，別當這app是真的辭工指南\n來源: http://goo.gl/dIBc59 (jobsdb.com)</string>
     <string name="back_to_first_question">第一條問題</string>
     <string name="get_started">開始吧</string>
