@@ -74,7 +74,8 @@ public class QuestionsActivity extends AppCompatActivity {
         currentQuestions.add(question);
         mSectionsPagerAdapter.notifyDataSetChanged();
         tabLayout.setupWithViewPager(mViewPager);
-        tabLayout.post(new Runnable() {
+        mViewPager.setCurrentItem(currentQuestions.size() - 2, false);
+        mViewPager.post(new Runnable() {
             @Override
             public void run() {
                 mViewPager.setCurrentItem(currentQuestions.size() - 1, true);
