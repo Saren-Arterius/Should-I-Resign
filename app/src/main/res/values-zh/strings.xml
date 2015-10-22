@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">我該辭工嗎？</string>
     <string name="app_icon_desc"/>
-    <string name="app_info">作者: Saren\n聲明: 此app只為純粹搞笑，別當這app是真的辭工指南\n來源: http://goo.gl/dIBc59 (jobsdb.com)</string>
+    <string name="app_info">作者: Saren\n聲明: 純粹搞笑，別當這app是真的辭工指南\n來源: http://goo.gl/dIBc59 (jobsdb.com)</string>
     <string name="back_to_first_question">第一條問題</string>
     <string name="get_started">開始吧</string>
 
@@ -22,7 +22,7 @@
     <string name="question_found_new_job">找到新工作了沒？</string>
     <string name="question_go_for_new_job">真的想做新工作嗎？</string>
     <string name="question_chase_dream">為了追夢，你一定要辭工嗎？</string>
-    <string name="question_rich_enough">從今不工作的話，你下半生可以隨便吃喝玩樂，衣食無憂嗎？</string>
+    <string name="question_rich_enough">從今不工作的話，你下半生可以隨意吃喝玩樂，衣食無憂嗎？</string>
     <string name="question_that_somebody">有人包養你下半生嗎？</string>
     <string name="question_still_resigning">還想要辭工嗎？</string>
     <string name="question_talk_to_boss">跟老闆談談吧</string>
