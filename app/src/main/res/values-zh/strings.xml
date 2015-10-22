@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">我該辭工嗎？</string>
+    <string name="app_icon_desc"/>
+    <string name="app_info">作者: Saren\n聲明: 此app只為純粹搞笑，別當這app是真的辭工指南\n來源: http://goo.gl/dIBc59 (jobsdb.com)</string>
+    <string name="back_to_first_question">第一條問題</string>
+    <string name="get_started">開始吧</string>
+
     <string name="answer_bad">不要提了…</string>
     <string name="answer_bad_salary">薪水不好</string>
     <string name="answer_chase_dream">追夢</string>
@@ -11,12 +16,9 @@
     <string name="answer_try_stay_longer_no">不要</string>
     <string name="answer_unhappy">工作不開心</string>
     <string name="answer_yes">是的</string>
-    <string name="app_icon_desc"></string>
-    <string name="app_info">作者: Saren\n聲明: 此app只為純粹搞笑，別當這app是真的辭工指南\n來源: jobsdb.com</string>
-    <string name="back_to_first_question">第一條問題</string>
-    <string name="get_started">開始吧</string>
+
     <string name="question_are_you_sure">你肯定嗎？</string>
-    <string name="question_does_it_work">那行得通嗎？</string>
+    <string name="question_does_it_work">有令你過得好點嗎？</string>
     <string name="question_found_new_job">找到新工作了沒？</string>
     <string name="question_go_for_new_job">真的想做新工作嗎？</string>
     <string name="question_chase_dream">為了追夢，你一定要辭工嗎？</string>

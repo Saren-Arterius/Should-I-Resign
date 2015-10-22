@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Should I Resign?</string>
     <string name="back_to_first_question">First question</string>
-    <string name="app_info">Author: Saren\nDisclaimer: For entertainment purpose only, do not seek this app as real advice.\nSource: jobsdb.com</string>
+    <string name="app_info">Author: Saren\nDisclaimer: For entertainment purpose only, do not seek this app as real advice.\nSource: http://goo.gl/dIBc59 (jobsdb.com)</string>
     <string name="get_started">Get started</string>
     <string name="app_icon_desc" translatable="false">The app icon</string>
 
